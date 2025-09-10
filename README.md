@@ -67,9 +67,9 @@ npm run dev
 | DELETE | /api/employees/\:id | Delete employee    |
 
 ---
-![Employee List Screen](screenshots/Employees_List.png)
-![Add Employee Screen](screenshots/Add_Employee.png)
-![Update Employee Screen](screenshots/Update_Employee.png)
+![Employee List Screen](ems-frontend/screenshots/Employees_List.png)
+![Add Employee Screen](ems-frontend/screenshots/Add_Employee.png)
+![Update Employee Screen](ems-frontend/screenshots/Update_Employee.png)
 
 ---
 
